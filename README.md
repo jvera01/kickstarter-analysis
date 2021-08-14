@@ -12,7 +12,7 @@ Analyzing the data and using the findings and critical factors will help Louise 
 ### Analysis of Outcomes Based on Goals
 The data indicate that from 694 successful campaigns, we have a 76% success rate for campaigns with goals of less than $1000 and not greater than $4999. At the same time, we can see that a goal higher than $5000 has a 23% success rate. 
 ### Challenges and Difficulties Encountered
- The formulas were time-consuming and sometimes confusing, but I overcame them with the exercises in the modules and resources.
+ The formulas were time-consuming and sometimes confusing, but I overcame them with the exercises in the modules and resources...
 ## Results
 There are two conclusions we can draw about the Outcomes-based on the Launch date. The month that launched the most successful Kickstarter campaigns was May. However, January, June, July, and October all had roughly the same number of failed campaigns launched. Also,The data indicate that from 694 successful campaigns, we have a 76% success rate for campaigns with goals of less than $1000 and not greater than $4999. At the same time, we can see that a goal higher than $5000 has a 23% success rate. 
 
